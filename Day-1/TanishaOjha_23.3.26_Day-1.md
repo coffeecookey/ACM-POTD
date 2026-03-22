@@ -1,5 +1,5 @@
 ## Solution
-
+```
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
@@ -15,3 +15,4 @@ public:
         return k;
     }
 };
+```
